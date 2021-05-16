@@ -1,0 +1,17 @@
+{
+  "view_speed_modifier": 2.0,
+  "volume": 0.5,
+  "renderer": {
+    "mode": "Space",
+    "camera": {
+      "center": {
+        "x": 58.16397,
+        "y": 44.540615
+      },
+      "rotation": -0.013938028,
+      "attack": 1.5707964,
+      "distance": 53.445507,
+      "perspective": true
+    }
+  }
+}

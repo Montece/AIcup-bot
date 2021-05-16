@@ -1,0 +1,14 @@
+D:\Выключение\C# программы\AICUP\bin\Debug\AICUP.exe.config
+D:\Выключение\C# программы\AICUP\bin\Debug\AICUP.exe
+D:\Выключение\C# программы\AICUP\bin\Debug\AICUP.pdb
+D:\Выключение\C# программы\AICUP\obj\Debug\AICUP.csprojAssemblyReference.cache
+D:\Выключение\C# программы\AICUP\obj\Debug\AICUP.csproj.CoreCompileInputs.cache
+D:\Выключение\C# программы\AICUP\obj\Debug\AICUP.exe
+D:\Выключение\C# программы\AICUP\obj\Debug\AICUP.pdb
+D:\Выключение\A_Programs_Development\CSharp\AICUP\obj\Debug\AICUP.csprojAssemblyReference.cache
+D:\Выключение\A_Programs_Development\CSharp\AICUP\obj\Debug\AICUP.csproj.CoreCompileInputs.cache
+D:\Выключение\A_Programs_Development\CSharp\AICUP\obj\Debug\AICUP.exe
+D:\Выключение\A_Programs_Development\CSharp\AICUP\obj\Debug\AICUP.pdb
+D:\Выключение\A_Programs_Development\CSharp\AICUP\bin\Debug\AICUP.exe.config
+D:\Выключение\A_Programs_Development\CSharp\AICUP\bin\Debug\AICUP.exe
+D:\Выключение\A_Programs_Development\CSharp\AICUP\bin\Debug\AICUP.pdb
