@@ -1,2 +1,2 @@
 # AIcup-bot
-Bot for AIcup tournament for starcraft-like game.
+.net C# bot for AIcup tournament for starcraft-like game.
